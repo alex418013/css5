@@ -1,0 +1,32 @@
+@charset "utf-8";
+body {
+    background-color: hsl(198, 50%, 85%);
+    font-family: sans-serif;
+    }
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    }
+h2{
+    font-size: 2rem;
+    background-color: lightslategray ;
+    color: hsl(198, 19%, 31%) ;
+    text-decoration: underline;
+}
+h3{
+    font-size: 1rem;
+    background-color: lightslategrey;
+
+}
+em{
+    color: cyan
+}
+p{
+    background-color: lightsteelblue
+}
+address{
+    text-align: right;
+    font-style: italic;
+    background-color: white;
+}
